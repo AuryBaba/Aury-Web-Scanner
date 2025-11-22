@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AuryBaba/Aury-Web-Scanner/main/assets/banner.png" alt="Aury Web Scanner" width="100%"/>
+
 
 <h1 align="center">Aury Web Scanner</h1>
 <p align="center">
