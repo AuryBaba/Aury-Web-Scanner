@@ -30,4 +30,6 @@
   <img src="https://raw.githubusercontent.com/AuryBaba/Aury-Web-Scanner/main/assets/screenshot-en.jpg" width="48%" alt="English Interface"/>
 </div>
 
+<img width="1919" height="1012" alt="Ekran görüntüsü 2025-11-22 212522" src="https://github.com/user-attachments/assets/36c54b15-8a7a-462f-a843-02c7dcc0cd0c" />
 
+<img width="1919" height="1029" alt="Ekran görüntüsü 2025-11-22 212512" src="https://github.com/user-attachments/assets/2753be3f-8b9f-49bb-88ac-1d8496b80994" />
