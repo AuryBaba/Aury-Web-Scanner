@@ -23,12 +23,7 @@
 - Neon efektli, kaymasız, premium PyQt6 arayüz
 - %100 açık kaynak – MIT Lisansı
 
-## Ekran Görüntüleri
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AuryBaba/Aury-Web-Scanner/main/assets/screenshot-tr.jpg" width="48%" alt="Türkçe Arayüz"/>
-  <img src="https://raw.githubusercontent.com/AuryBaba/Aury-Web-Scanner/main/assets/screenshot-en.jpg" width="48%" alt="English Interface"/>
-</div>
 
 <img width="1919" height="1012" alt="Ekran görüntüsü 2025-11-22 212522" src="https://github.com/user-attachments/assets/36c54b15-8a7a-462f-a843-02c7dcc0cd0c" />
 
