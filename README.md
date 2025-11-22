@@ -30,10 +30,4 @@
   <img src="https://raw.githubusercontent.com/AuryBaba/Aury-Web-Scanner/main/assets/screenshot-en.jpg" width="48%" alt="English Interface"/>
 </div>
 
-## Kurulum
 
-```bash
-git clone https://github.com/AuryBaba/Aury-Web-Scanner.git
-cd Aury-Web-Scanner
-pip install -r requirements.txt
-python main.py
