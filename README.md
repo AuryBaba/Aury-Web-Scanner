@@ -30,6 +30,11 @@
 <img width="1919" height="1029" alt="Ekran görüntüsü 2025-11-22 212512" src="https://github.com/user-attachments/assets/2753be3f-8b9f-49bb-88ac-1d8496b80994" />
 
 
+⚠ YASAL UYARI
+Bu yazılım yalnızca eğitim, araştırma ve yetkili güvenlik testleri için geliştirilmiştir.
+İzinsiz olarak herhangi bir web sitesi, sunucu veya sisteme karşı kullanılması
+TCK 243–244 kapsamında suç teşkil eder. 
+Bu yazılımı kullanarak gerçekleştirilen tüm işlemlerden kullanıcı sorumludur.
+Geliştirici hiçbir yasa dışı kullanımın sorumluluğunu kabul etmez.
 
-BU ARAÇ SADECE KENDİ SİSTEMLERİNİZDE VEYA YAZILI İZİN ALINMIŞ SİSTEMLERDE KULLANILABİLİR!
-İZİNSİZ TARAMA TCK 243-244 KAPSAMINDA SUÇTUR!
+
