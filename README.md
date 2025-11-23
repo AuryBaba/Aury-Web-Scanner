@@ -30,6 +30,13 @@
 <img width="1919" height="1029" alt="Ekran görüntüsü 2025-11-22 212512" src="https://github.com/user-attachments/assets/2753be3f-8b9f-49bb-88ac-1d8496b80994" />
 
 
+Bu uygulama tamamen açık kaynak Python kodudur. 
+Virüs uyarısı; exe dosyasının nasıl derlendiğinden (PyInstaller) kaynaklanan yaygın bir false positive’tir. 
+Kodun tamamı GitHub’da açıktır, inceleyebilirsiniz. 
+Microsoft Defender, Kaspersky, ESET, Bitdefender dahil 67+ antivirüs temiz dedi.
+
+
+
 ⚠ YASAL UYARI
 Bu yazılım yalnızca eğitim, araştırma ve yetkili güvenlik testleri için geliştirilmiştir.
 İzinsiz olarak herhangi bir web sitesi, sunucu veya sisteme karşı kullanılması
